@@ -6,3 +6,4 @@ Clients are stored in a custom doubly linked list.
 1. Add/remove clients
 2. Add/remove games borrowed by certain clients
 3. Sort games/clients lists
+4. Search clients by their PESEL (id) number
