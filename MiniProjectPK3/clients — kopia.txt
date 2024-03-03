@@ -1,6 +1,0 @@
-99244210531,Mikolaj,Frycz,12.11.1999,Gliwice,Dworocowa 11,
-02321502193,Andrew,Dewdong,23.07.1994,San Francisco,High St. 76,
-31231565353,Andrzej,Mlynarz,29.06.2001,Katowice,Kartoflowa 8,
-75649987234,Danny,De Vitto,14.02.1979,Boston,White St 7,
-45452762123,Adalbert,Hackenkreuz,3.07.2002,Gliwice,Bohaterow,
-02351654446,Stefan,Frycz,12.11.1999,Gliwice,Dworocowa 11,
