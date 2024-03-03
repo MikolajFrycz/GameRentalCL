@@ -1,0 +1,5 @@
+02314432765,Tadeusz,Norek,12.06.1965,Warszawa,Serialowa 1,
+02321502193,Andrew,Dewdong,23.07.1994,San Francisco,High St. 76,
+02341438776,Tadeusz,Huk,28.07.1998,Gdansk,Wroclawska 7D,
+31231565353,Andrzej,Mlynarz,29.06.2001,Katowice,Kartoflowa 8,
+75649987234,Danny,De Vitto,14.02.1979,Boston,White St 7,
